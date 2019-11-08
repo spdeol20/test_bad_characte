@@ -20,7 +20,7 @@ companion object {
         .build()
 
     val retrofit = Retrofit.Builder()
-        .baseUrl("https://api.github.com")
+        .baseUrl("https://breakingbadapi.com")
         .client(clientR)
         .addConverterFactory(GsonConverterFactory.create()).build()
 

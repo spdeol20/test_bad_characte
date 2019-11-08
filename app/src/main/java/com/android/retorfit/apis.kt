@@ -6,6 +6,6 @@ import retrofit2.http.GET
 import java.util.*
 
 interface Apis{
-    @GET("/orgs/square/repos")
+    @GET("/api/characters")
     fun callApi() : Call<List<DataModel>>
 }

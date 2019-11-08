@@ -5,6 +5,12 @@
     <color name="colorAccent">#D81B60</color>
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
-    <color name="orange">#FF5722</color>
+    <color name="orange">#F38C6B</color>
+    <color name="orange_light">#BE3206</color>
+    <color name="orange_dark">#C75028</color>
     <color name="colorPrimary_light">#498378</color>
+    <color name="pink">#ff9a9e</color>
+    <color name="pink_light">#FFB7AA</color>
+    <color name="sky_color">#89f7fe</color>
+    <color name="sky_dark">#66a6ff</color>
 </resources>
